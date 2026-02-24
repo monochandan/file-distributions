@@ -68,7 +68,8 @@ repo => insights => contributors (commits)
 ![https://gitstar-ranking.com/organizations](https://gitstar-ranking.com/organizations)
 ![https://github.com/trending](https://github.com/trending)
 
-    | Narow Down |
+```
+| Narow Down |
     | Narow Down |
     | Narow Down |
   -------------------
@@ -81,5 +82,6 @@ repo => insights => contributors (commits)
           - found a bug.
           - API can be improved.
           - New API in the repo.
+``` 
 
 
