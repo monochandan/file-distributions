@@ -69,7 +69,7 @@ repo => insights => contributors (commits)
 ![https://github.com/trending](https://github.com/trending)
 
 ```
-| Narow Down |
+    | Narow Down |
     | Narow Down |
     | Narow Down |
   -------------------
