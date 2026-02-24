@@ -69,6 +69,9 @@ repo => insights => contributors (commits)
 ![https://github.com/trending](https://github.com/trending)
 
 ```
+Find a suitable repo to work
+         |
+         V
     | Narow Down |
     | Narow Down |
     | Narow Down |
