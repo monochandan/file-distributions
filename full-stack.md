@@ -152,3 +152,5 @@
         - objects: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
     ```
 [Alternative of CSS to NodeJS - STYLUS](https://stylus-lang.com/docs/executable.html)
+
+[Random Moving bubbel using HAML STYLUS](https://codepen.io/bajzarpa/pen/woYNXp)
