@@ -1,4 +1,5 @@
 1. Completed personal portfolio project (demo)
+   
     ```
         core HTML tags,
         Nesting,
@@ -14,6 +15,7 @@
 [COLOUR CONTRAST CHECKER](https://userway.org/contrast/?fg=F8F9FA&bg=#dfe1e5)
 
 2. CSS 1.0
+   
     ```
         1. CSS SYNTAX
         1. INLINE VS BLOCK (centering the elements)
@@ -29,12 +31,12 @@
     ```
 
     CSS 2.0
+   
     ```
         1. Relative path syntax.
             - ./    --> Start from the same directory the current file is in.
             - ../   --> start from the parent directory of (the directory above) the current file.
             - /     --> start from the projects root directory.
-    ```
 
         2. More about flex box.
 
@@ -58,7 +60,7 @@
         8. img alt variable.
 
         9. Color Palettes.
-    ]
+    ```
 
 3. Web Space
    ```
@@ -86,38 +88,38 @@
 
 
 
-5. b-day gif [
-    1. hexadecimal lcode for emoji [should add this line in head <meta charset="UTF-8">] - https://www.w3schools.com/charsets/ref_emoji_celebration.asp
-    2. align items
-        {
-            display: flex;
-            justify-content: start, center, end, space-around, space-evenly, space-between;
-            align-items: start, center, end;
-        }
+4. b-day gif
+   
+   ```
+            1. hexadecimal lcode for emoji [should add this line in head <meta charset="UTF-8">] - https://www.w3schools.com/charsets/ref_emoji_celebration.asp
+            2. align items
+                {
+                    display: flex;
+                    justify-content: start, center, end, space-around, space-evenly, space-between;
+                    align-items: start, center, end;
+                }
+        
+            3.     
+                --- CENTERING ELEMENT FOR DIV ---
+                img is inline element so, text-alignment: center work for img or any other default inline elements.
+                BUT, div is block element, fo div text-alignment does not work as It is display: block by default.
+        
+                So, for display:block, margin-left/right: auto will center the element,
+                if the height and width is set.
+        
+            4. hover (pseudo-class).
+                - <a> are typically inline.
+                - specificity - the more specific the css property is, the higher it will be prioratize (for example id).
+        
+            5. Gradients (different colour fading from top to bottom or another angales).
+        
+            6. flex-direction.
+        
+            7. Grouping selector (select multiple elements/tags from html to fullfill DONT REPEAT AGAIN).
+```
 
-    3. 
-    ****     
-        --- CENTERING ELEMENT FOR DIV ---
-        img is inline element so, text-alignment: center work for img or any other default inline elements.
-        BUT, div is block element, fo div text-alignment does not work as It is display: block by default.
-
-        So, for display:block, margin-left/right: auto will center the element,
-        if the height and width is set.
-    *****
-
-    4. hover (pseudo-class).
-        - <a> are typically inline.
-        - specificity - the more specific the css property is, the higher it will be prioratize (for example id).
-
-    5. Gradients (different colour fading from top to bottom or another angales).
-
-    6. flex-direction.
-
-    7. Grouping selector (select multiple elements/tags from html to fullfill DONT REPEAT AGAIN).
-]
-
-6. JS FUNDEMENTALS
-    [
+5. JS FUNDEMENTALS
+    ```
         var, let, const : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types
         clicklictener : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click
         change html element text from js : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText
@@ -137,9 +139,9 @@
         - innerText
         - textContent
 
-    ]
-7. JS 1.0 
-    [
+```
+6. JS 1.0 
+    ```
         - strictly equal (===).(100 == "100") --> TRUE. (100 === "100") --> FALSE.
         - if/else statement.
         - BOOLEAN : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
@@ -149,4 +151,4 @@
         - Loops: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
         - Math.random: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
         - objects: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
-    ]
+    ```
