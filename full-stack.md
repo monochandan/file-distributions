@@ -1,5 +1,5 @@
 1. Completed personal portfolio project (demo)
-    [
+    ```
         core HTML tags,
         Nesting,
         Buttons,
@@ -8,12 +8,13 @@
         Document Structure,
         Lists,
         [Deployment](https://app.netlify.com/teams/mkdas-chandan/projects)
-    ] 
+    ```
+    
 
 [COLOUR CONTRAST CHECKER](https://userway.org/contrast/?fg=F8F9FA&bg=#dfe1e5)
 
 2. CSS 1.0
-    [
+    ```
         1. CSS SYNTAX
         1. INLINE VS BLOCK (centering the elements)
         1. MARGING (space outside the elements)
@@ -25,14 +26,15 @@
             1. display: block, margin-left/right: auto
             2. Parent wrapper, display: block, text-align: center
             3. wrapper container (e.g.- buttons wrapped by div), display: flex, justify-content: center
-    ]
+    ```
 
     CSS 2.0
-    [
+    ```
         1. Relative path syntax.
             - ./    --> Start from the same directory the current file is in.
             - ../   --> start from the parent directory of (the directory above) the current file.
             - /     --> start from the projects root directory.
+    ```
 
         2. More about flex box.
 
@@ -58,7 +60,8 @@
         9. Color Palettes.
     ]
 
-3. Web Space [
+3. Web Space
+   ```
     1. good quality image from : https://unsplash.com/.
     2. Google Font : google.font.org.
     3. Font Family Inherit to the child component.
@@ -69,8 +72,9 @@
     8. Animated image - https://giphy.com/
     9. Text Shadow - text-shadow: horizontal(+/- , push shadow right/left) vartical(+/-, push shadow top/botom)  blur color;
     10. HTML lang attribute. (language (standard language code) of the content in an html page). Reach the correct audiance. [https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/lang#inheritance]
+   ```
     
-    {
+    ```
         1. background image.
         2. webp format.
         3. google fonts.
@@ -78,12 +82,11 @@
         5. id and utility classes.
         6. text-shadow.
 
-    }
-]
+    ```
 
 
 
-4. b-day gif [
+5. b-day gif [
     1. hexadecimal lcode for emoji [should add this line in head <meta charset="UTF-8">] - https://www.w3schools.com/charsets/ref_emoji_celebration.asp
     2. align items
         {
@@ -113,7 +116,7 @@
     7. Grouping selector (select multiple elements/tags from html to fullfill DONT REPEAT AGAIN).
 ]
 
-5. JS FUNDEMENTALS
+6. JS FUNDEMENTALS
     [
         var, let, const : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types
         clicklictener : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click
@@ -135,7 +138,7 @@
         - textContent
 
     ]
-6. JS 1.0 
+7. JS 1.0 
     [
         - strictly equal (===).(100 == "100") --> TRUE. (100 === "100") --> FALSE.
         - if/else statement.
