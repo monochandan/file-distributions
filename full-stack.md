@@ -151,3 +151,4 @@
         - Math.random: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
         - objects: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
     ```
+[Alternative of CSS to NodeJS - STYLUS](https://stylus-lang.com/docs/executable.html)
