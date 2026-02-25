@@ -64,9 +64,9 @@ repo => insights => contributors (commits)
 
 ### Open Source Activity:
 
-![https://octoverse.github.com](https://octoverse.github.com)
-![https://gitstar-ranking.com/organizations](https://gitstar-ranking.com/organizations)
-![https://github.com/trending](https://github.com/trending)
+[https://octoverse.github.com](https://octoverse.github.com)
+[https://gitstar-ranking.com/organizations](https://gitstar-ranking.com/organizations)
+[https://github.com/trending](https://github.com/trending)
 
 ```
 Find a suitable repo to work
