@@ -117,7 +117,6 @@
         
             7. Grouping selector (select multiple elements/tags from html to fullfill DONT REPEAT AGAIN).
 ```
-
 5. JS FUNDEMENTALS
     ```
         var, let, const : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types
