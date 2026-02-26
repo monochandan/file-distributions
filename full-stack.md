@@ -154,3 +154,5 @@
 [Alternative of CSS to NodeJS - STYLUS](https://stylus-lang.com/docs/executable.html)
 
 [Random Moving bubbel using HAML STYLUS](https://codepen.io/bajzarpa/pen/woYNXp)
+
+[Free animated Icons](https://lordicon.com/)
