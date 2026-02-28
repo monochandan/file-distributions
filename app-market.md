@@ -9,3 +9,9 @@
 ![Explore Top-Performing Facebook, TikTok & Instagram Ads](https://www.viraladlibrary.com/)
 
 ![Get the idea of designing screen](https://screensdesign.com/)
+
+1. Fornt end frame work: React Native ( can be deployed IOS and Andriod).
+2. Backend Tech:  Node JS, Express JS
+3. DataBase: PostGresSQL
+4. Tooling and devOPS: Docker, AWS Fargate, BitBucket
+5. Additional: TypeScript, GraphQL, Testing Frame Work: Jest, Cypress.
