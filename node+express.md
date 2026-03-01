@@ -10,3 +10,5 @@
 
 
 [git ignore generator](https://mrkandreev.name/snippets/gitignore-generator/#Python)
+
+<img width="455" height="320" alt="Image" src="https://github.com/user-attachments/assets/55cf3628-ec19-42a4-ad60-3e990e7d0a69" />
