@@ -7,3 +7,6 @@
 <br>
 
 <img width="366" height="224" alt="Image" src="https://github.com/user-attachments/assets/424a57ed-3427-43aa-aaa7-dac35a03c0c4" />
+
+
+[git ignore generator](https://mrkandreev.name/snippets/gitignore-generator/#Python)
