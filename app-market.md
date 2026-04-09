@@ -15,3 +15,16 @@
 3. DataBase: PostGresSQL
 4. Tooling and devOPS: Docker, AWS Fargate, BitBucket
 5. Additional: TypeScript, GraphQL, Testing Frame Work: Jest, Cypress.
+
+
+####################################################################################
+
+Claude -- code
+supabase -- db
+Railway -- backend
+Firebase -- auth and frontend
+Stripe --- payment
+Roboflow --- computervision
+Modal --- ondemand gpu
+
+
