@@ -5,4 +5,4 @@
 
 [Form Data Validation - validate data](https://zod.dev/)
 
-[using generocs , sending dynamic types from above to berlow <T>, <SignInFields>](https://github.com/monochandan/authentication_expo_clerk/blob/main/app/index.tsx)
+[using generocs , sending dynamic types from above to berlow T, SignInFields](https://github.com/monochandan/authentication_expo_clerk/blob/main/app/index.tsx)
