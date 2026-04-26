@@ -6,4 +6,8 @@
 
 ![TouchableOpacity - RN](https://reactnative.dev/docs/touchableopacity)
 
+[whay context is betetr than props?](https://react.dev/learn/passing-data-deeply-with-context)
+
+[createContext (Authentication)](https://react.dev/reference/react/createContext)
+
 
