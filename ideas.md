@@ -11,3 +11,6 @@ Recipe creation app:
 Nutritians app helps you avoid those foods that are harmful for your specific health condition. By recognizing images to avoid specific health problems.
 
 # [Real estate photo to video tour](https://www.marton.ai/en?utm_source=gads&gad_source=1&gad_campaignid=23324629604&gbraid=0AAAAAq5VIPsWuhzEXpEC9ixD9YtTW1qii&gclid=Cj0KCQjwlerQBhDMARIsAB16H-UjXV8qZogbmdVZjsfOf91_2rKG9UeFQKU4XeYqysJIXZBhsdvqOb4aAqJDEALw_wcB#FAQ)
+
+- [furnish empty room](https://realhorizons.ai/features) using [spatial studio](https://toolkit.spatial.io/docs/installation)
+
