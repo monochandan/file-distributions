@@ -14,3 +14,5 @@ Nutritians app helps you avoid those foods that are harmful for your specific he
 
 - [furnish empty room](https://realhorizons.ai/features) using [spatial studio](https://toolkit.spatial.io/docs/installation)
 
+- [open food facts- food category A to E](https://world.openfoodfacts.org/)
+- [open data loader pdf  extract data from pdf for LLM](https://github.com/opendataloader-project/opendataloader-pdf)
